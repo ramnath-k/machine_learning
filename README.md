@@ -21,3 +21,10 @@ Basic concepts in Machine Learning
     1. Principal component analysis
 1. Reinforcement learning
   1. e.g. a program which learns to play checkers by playing many games against itself or other opponents
+
+Programming Language - Libraries
+----------
+1. Python - Scikit-learn (open source), Tensorflow (supported by Google)
+1. Java/Scala - Spark ML lib
+1. Lua - Torch (supported by Facebook)
+1. MXNet (supported by Amazon, part of Apache incubator)
